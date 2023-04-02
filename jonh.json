@@ -1,0 +1,19 @@
+//const port = 3000;
+
+const dssv =[
+{
+    "Masv" : "21662008",
+     "Hoten" : "Tran ngoc khoa",
+     "Lop" : "17CSI01" 
+}
+{
+    "Masv" : "21662009",
+"Hoten" : "Boy 1",
+"Lop" : "17CSI01" 
+}
+{
+    "Masv" : "21662010",
+"Hoten" : "Boy 2",
+"Lop" : "17CSI01" 
+}
+]
